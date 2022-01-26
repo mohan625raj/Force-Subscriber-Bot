@@ -7,8 +7,8 @@
     "force sub Bot"
   ],
   "success_url": "https://t.me/my_channels_list_official",
-  "website": "https://github.com/freecontenttest/Force-Subscriber-Bot",
-  "repository": "https://github.com/freecontenttest/Force-Subscriber-Bot",
+  "website": "https://github.com/mohan625raj/Force-Subscriber-Bot",
+  "repository": "https://github.com/mohan625raj/Force-Subscriber-Bot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
