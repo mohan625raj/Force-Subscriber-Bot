@@ -11,7 +11,7 @@
 - [ ] LOGGER support.
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/freecontenttest/Force-Subscriber-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mohan625raj/Force-Subscriber-Bot)
 
 
 ### Installation
